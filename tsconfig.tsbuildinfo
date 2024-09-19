@@ -1,0 +1,9 @@
+{
+    "root": [
+        "./src/index.ts",
+        "./src/config/database.ts",
+        "./src/handlers/users.ts",
+        "./src/routes/users.ts"
+    ],
+    "version": "5.6.2"
+}
